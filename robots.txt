@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /styleguide.html
+Disallow: /modals.html
+
+Sitemap: https://perniaglass.com/sitemap.xml
