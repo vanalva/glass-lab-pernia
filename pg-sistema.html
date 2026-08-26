@@ -35,7 +35,7 @@
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Host+Grotesk:ital,wght@0,300..800;1,300..800&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/variables.css?v=3703e9fe">
-  <link rel="stylesheet" href="css/project.css?v=c07be3dd">
+  <link rel="stylesheet" href="css/project.css?v=ae75221f">
 
   <script type="application/ld+json">
   {
@@ -157,7 +157,7 @@
         <div class="pg-sistema_features" data-bind="features"></div>
       </div>
       <div class="pg-sistema_overview_visual">
-        <img data-bind-src="overview" alt="" class="pg-sistema_overview_img" loading="lazy">
+        <img data-bind-src="overview" alt="" class="pg-sistema_overview_img" data-gl-lightbox loading="lazy">
       </div>
     </section>
 
@@ -214,7 +214,7 @@
         <h2 class="pg-sistema_apps_heading">Aplicaciones reales</h2>
         <p class="u-text-style-main gl-mono_muted pg-sistema_apps_sub">Instalaciones Pernia del mismo tipo de sistema, fotografiadas en obra.</p>
       </div>
-      <div class="pg-sistema_apps_grid" data-bind="applications"></div>
+      <div class="pg-sistema_apps_grid" data-gl-lightbox data-bind="applications"></div>
     </section>
 
     <!-- 04 // PROFILE COLORS -->
@@ -431,6 +431,8 @@
     </div>
   </div>
   <script src='js/gl-menu.js?v=6026605e'></script>
+  <!-- Shared photo viewer — opt-in via data-gl-lightbox (see gl-lightbox.js) -->
+  <script src="js/gl-lightbox.js?v=54dd6498"></script>
   <script src="js/gl-interactions.js?v=5e94091b"></script>
   <script src="js/gl-page-transition.js?v=6f4350e2"></script>
   <script src="js/newsletter.js?v=6d3257eb"></script>
