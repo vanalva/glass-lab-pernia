@@ -1,59 +1,199 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://perniaglass.com/</loc>
-    <lastmod>2026-08-26</lastmod>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/"/>
+  </url>
+  <url>
+    <loc>https://perniaglass.com/en/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/"/>
   </url>
   <url>
     <loc>https://perniaglass.com/legal-cookies.html</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/legal-cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/legal-cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/legal-cookies.html"/>
+  </url>
+  <url>
+    <loc>https://perniaglass.com/en/legal-cookies.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/legal-cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/legal-cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/legal-cookies.html"/>
   </url>
   <url>
     <loc>https://perniaglass.com/legal-privacidad.html</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/legal-privacidad.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/legal-privacidad.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/legal-privacidad.html"/>
+  </url>
+  <url>
+    <loc>https://perniaglass.com/en/legal-privacidad.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/legal-privacidad.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/legal-privacidad.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/legal-privacidad.html"/>
   </url>
   <url>
     <loc>https://perniaglass.com/legal-terminos.html</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/legal-terminos.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/legal-terminos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/legal-terminos.html"/>
+  </url>
+  <url>
+    <loc>https://perniaglass.com/en/legal-terminos.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/legal-terminos.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/legal-terminos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/legal-terminos.html"/>
   </url>
   <url>
     <loc>https://perniaglass.com/pg-contacto.html</loc>
-    <lastmod>2026-07-26</lastmod>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/pg-contacto.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/pg-contacto.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/pg-contacto.html"/>
+  </url>
+  <url>
+    <loc>https://perniaglass.com/en/pg-contacto.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/pg-contacto.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/pg-contacto.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/pg-contacto.html"/>
   </url>
   <url>
     <loc>https://perniaglass.com/pg-laboratorio.html</loc>
-    <lastmod>2026-08-26</lastmod>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/pg-laboratorio.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/pg-laboratorio.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/pg-laboratorio.html"/>
+  </url>
+  <url>
+    <loc>https://perniaglass.com/en/pg-laboratorio.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/pg-laboratorio.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/pg-laboratorio.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/pg-laboratorio.html"/>
   </url>
   <url>
     <loc>https://perniaglass.com/pg-mobiliario.html</loc>
-    <lastmod>2026-08-26</lastmod>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/pg-mobiliario.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/pg-mobiliario.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/pg-mobiliario.html"/>
+  </url>
+  <url>
+    <loc>https://perniaglass.com/en/pg-mobiliario.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/pg-mobiliario.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/pg-mobiliario.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/pg-mobiliario.html"/>
   </url>
   <url>
     <loc>https://perniaglass.com/pg-mueble.html</loc>
-    <lastmod>2026-08-26</lastmod>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/pg-mueble.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/pg-mueble.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/pg-mueble.html"/>
+  </url>
+  <url>
+    <loc>https://perniaglass.com/en/pg-mueble.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/pg-mueble.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/pg-mueble.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/pg-mueble.html"/>
   </url>
   <url>
     <loc>https://perniaglass.com/pg-nosotros.html</loc>
-    <lastmod>2026-08-26</lastmod>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/pg-nosotros.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/pg-nosotros.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/pg-nosotros.html"/>
+  </url>
+  <url>
+    <loc>https://perniaglass.com/en/pg-nosotros.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/pg-nosotros.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/pg-nosotros.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/pg-nosotros.html"/>
   </url>
   <url>
     <loc>https://perniaglass.com/pg-proyecto.html</loc>
-    <lastmod>2026-08-26</lastmod>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/pg-proyecto.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/pg-proyecto.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/pg-proyecto.html"/>
+  </url>
+  <url>
+    <loc>https://perniaglass.com/en/pg-proyecto.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/pg-proyecto.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/pg-proyecto.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/pg-proyecto.html"/>
   </url>
   <url>
     <loc>https://perniaglass.com/pg-proyectos.html</loc>
-    <lastmod>2026-08-05</lastmod>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/pg-proyectos.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/pg-proyectos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/pg-proyectos.html"/>
+  </url>
+  <url>
+    <loc>https://perniaglass.com/en/pg-proyectos.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/pg-proyectos.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/pg-proyectos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/pg-proyectos.html"/>
   </url>
   <url>
     <loc>https://perniaglass.com/pg-recursos.html</loc>
-    <lastmod>2026-08-26</lastmod>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/pg-recursos.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/pg-recursos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/pg-recursos.html"/>
+  </url>
+  <url>
+    <loc>https://perniaglass.com/en/pg-recursos.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/pg-recursos.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/pg-recursos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/pg-recursos.html"/>
   </url>
   <url>
     <loc>https://perniaglass.com/pg-sistema.html</loc>
-    <lastmod>2026-08-26</lastmod>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/pg-sistema.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/pg-sistema.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/pg-sistema.html"/>
+  </url>
+  <url>
+    <loc>https://perniaglass.com/en/pg-sistema.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/pg-sistema.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/pg-sistema.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/pg-sistema.html"/>
   </url>
   <url>
     <loc>https://perniaglass.com/pg-sistemas.html</loc>
-    <lastmod>2026-08-26</lastmod>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/pg-sistemas.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/pg-sistemas.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/pg-sistemas.html"/>
+  </url>
+  <url>
+    <loc>https://perniaglass.com/en/pg-sistemas.html</loc>
+    <lastmod>2026-09-02</lastmod>
+    <xhtml:link rel="alternate" hreflang="es" href="https://perniaglass.com/pg-sistemas.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://perniaglass.com/en/pg-sistemas.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://perniaglass.com/pg-sistemas.html"/>
   </url>
 </urlset>
