@@ -50,7 +50,7 @@ function renderPiece(piece, allPieces) {
   /* Breadcrumb + tags + title */
   var bc = document.querySelector('[data-bind="breadcrumb"]');
   if (bc) {
-    bc.innerHTML = '<a href="pg-mobiliario.html" class="pg-sistema_hero_breadcrumb-link">Mobiliario</a> &gt; ' + esc(nameEs);
+    bc.innerHTML = '<a href="mobiliario" class="pg-sistema_hero_breadcrumb-link">Mobiliario</a> &gt; ' + esc(nameEs);
   }
   setText('[data-bind="categoryTag"]', catEs);
   setText('[data-bind="name"]',        nameEs);
@@ -220,7 +220,7 @@ function specRow(label, value) {
 
 function relatedCard(piece) {
   var a = document.createElement('a');
-  a.href = 'pg-mueble.html?slug=' + encodeURIComponent(piece.slug);
+  a.href = 'mueble?slug=' + encodeURIComponent(piece.slug);
   a.className = 'pg-sistema_related_card';
 
   var img = document.createElement('img');
@@ -254,7 +254,7 @@ function renderNotFound(slug) {
       '<span class="gl-mono gl-mono_muted">404 — PIEZA NO ENCONTRADA</span>' +
       '<h1 class="pg-sistema_hero_title" style="margin:1rem 0;color:var(--swatch--dark-900);">« ' + esc(slug) + ' » no existe</h1>' +
       '<p class="gl-mono gl-mono_muted" style="max-width:40ch;margin-bottom:2rem;">Explora la colección completa de mobiliario.</p>' +
-      '<a href="pg-mobiliario.html" class="gl-mono">&larr; Volver al mobiliario</a>' +
+      '<a href="mobiliario" class="gl-mono">&larr; Volver al mobiliario</a>' +
       '</section>';
   }
 }

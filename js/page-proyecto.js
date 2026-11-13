@@ -159,7 +159,7 @@ function render(project, index, projects, systemsDoc) {
       const label = name.replace(new RegExp('^\\s*' + code + '\\s*[—–-]\\s*'), '');
       const render = s && s.media && s.media.render;
       return `
-        <a href="pg-sistema.html?code=${encodeURIComponent(code)}" class="pg-proyecto_system-ref">
+        <a href="sistema?code=${encodeURIComponent(code)}" class="pg-proyecto_system-ref">
           ${render ? `<img src="${esc(render)}" alt="${esc(code)} — render" class="pg-proyecto_system-ref_img" loading="lazy">` : ''}
           <div class="pg-proyecto_system-ref_info">
             <span class="gl-tag">${esc(code)}</span>
@@ -239,7 +239,7 @@ function fillPrevNext(selector, project, total) {
   // With a single project there is nowhere to go — hide rather than link to self
   if (!project || total < 2) { el.hidden = true; return; }
   el.hidden = false;
-  el.setAttribute('href', `pg-proyecto.html?slug=${encodeURIComponent(project.slug)}`);
+  el.setAttribute('href', `proyecto?slug=${encodeURIComponent(project.slug)}`);
   const titleEl = el.querySelector('.pg-proyecto_prevnext_title');
   if (titleEl) titleEl.textContent = project.title;
   const metaEl = el.querySelector('.gl-mono_label');
@@ -271,7 +271,7 @@ function renderNotFound(slug, projects) {
       <span class="gl-mono gl-mono_muted">404 — PROYECTO NO ENCONTRADO</span>
       <h1 class="pg-proyecto_hero_title" style="margin:0;">El proyecto «${esc(slug || '')}» no existe</h1>
       <p class="gl-mono gl-mono_muted">Proyectos disponibles: ${projects.map(p => esc(p.slug)).join(' · ')}</p>
-      <a href="pg-proyectos.html" class="gl-mono">&larr; Volver a proyectos</a>
+      <a href="proyectos" class="gl-mono">&larr; Volver a proyectos</a>
     </section>`;
 }
 
@@ -287,7 +287,7 @@ function renderError(err) {
         ? 'La página se está abriendo con <code>file://</code> — los navegadores bloquean los <code>fetch()</code> locales. Sírvela con un servidor local.'
         : 'Hubo un error al cargar <code>data/pernia-proyectos.json</code>.'}</p>
       <p class="gl-mono gl-mono_muted" style="font-size:0.8rem;">Error: ${esc((err && err.message) || String(err))}</p>
-      <a href="pg-proyectos.html" class="gl-mono">&larr; Volver a proyectos</a>
+      <a href="proyectos" class="gl-mono">&larr; Volver a proyectos</a>
     </section>`;
 }
 

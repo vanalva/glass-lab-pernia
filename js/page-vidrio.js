@@ -267,7 +267,7 @@ function renderRelatedCell(prod, kind) {
 
 function renderPerniaCard(system) {
   const a = document.createElement('a');
-  a.href = crossBrandHref(`pg-sistema.html?code=${system.code}`);
+  a.href = crossBrandHref(`sistema?code=${system.code}`);
   a.className = 'pg-sistemas_card gl-vidrio_pernia_card gl-link-reset';
 
   const img = document.createElement('img');

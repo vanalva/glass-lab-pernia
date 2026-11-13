@@ -72,7 +72,7 @@ function renderSystem(system, pernia) {
   // Breadcrumb + tags + title
   const bc = document.querySelector('[data-bind="breadcrumb"]');
   if (bc) {
-    bc.innerHTML = `<a href="pg-sistemas.html" class="pg-sistema_hero_breadcrumb-link">Sistemas</a> &gt; ${system.code}`;
+    bc.innerHTML = `<a href="sistemas" class="pg-sistema_hero_breadcrumb-link">Sistemas</a> &gt; ${system.code}`;
   }
   setText('[data-bind="configTag"]', system.familyName?.es || '');
   setText('[data-bind="code"]',      system.code);
@@ -254,7 +254,7 @@ function renderSystem(system, pernia) {
     const FEATURED_CODES = ['Vc', 'Va', 'In', 'Aq', 'Ec', 'Ed'];
     FEATURED_CODES.forEach(code => {
       const a = document.createElement('a');
-      a.href = crossBrandHref(`gl-vidrio.html?code=${code}`);
+      a.href = crossBrandHref(`vidrio?code=${code}`);
       a.className = 'gl-link-reset gl-cell gl-cell_filled pg-sistema_glasslab_cell';
       a.style.textDecoration = 'none';
       a.innerHTML = `
@@ -332,7 +332,7 @@ function featureItem(text) {
 
 function relatedCard(system) {
   const a = document.createElement('a');
-  a.href = `pg-sistema.html?code=${system.code}`;
+  a.href = `sistema?code=${system.code}`;
   a.className = 'pg-sistema_related_card';
 
   const img = document.createElement('img');
@@ -366,7 +366,7 @@ function renderNotFound(code) {
         <span class="gl-mono gl-mono_muted">404 — SISTEMA NO ENCONTRADO</span>
         <h1 class="pg-sistema_hero_title" style="margin:1rem 0;">El código «${code}» no existe</h1>
         <p class="gl-mono gl-mono_muted" style="max-width:44ch;margin-bottom:2rem;">La línea Pernia abarca de pglass-1a a pglass-4c, más pivotante, abatible y gabinete.</p>
-        <a href="pg-sistemas.html" class="gl-mono">&larr; Volver al catálogo de sistemas</a>
+        <a href="sistemas" class="gl-mono">&larr; Volver al catálogo de sistemas</a>
       </section>`;
   }
 }

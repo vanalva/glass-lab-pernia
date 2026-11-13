@@ -214,7 +214,7 @@ function boot(mount) {
       cell.setAttribute('aria-pressed', String(selected));
     });
     updateInfo(ui, code);
-    const detailLink = ui.querySelector('.gl-visor_control_buttons a[href*="gl-vidrio.html"]');
+    const detailLink = ui.querySelector('.gl-visor_control_buttons a[href*="vidrio"]');
     if (detailLink) detailLink.setAttribute('href', `gl-vidrio.html?code=${encodeURIComponent(code)}`);
     canvas.setAttribute('aria-label', `Muestra 3D: ${CATALOGUE[code].name}`);
     if (updateUrl) {
